@@ -5,3 +5,4 @@ git commit -m""
 git restore
 git clone
 fork 
+git pull
